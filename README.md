@@ -25,8 +25,8 @@
 ➤ pip2 install lolcat
 ➤ pip2 install futures
 ➤ pkg install python2 git
-➤  git clone https://github.com/The-Rebel-No1/simbf2
-➤  cd simbf2
+➤  git clone https://github.com/The-Rebel-No1/Simbf2
+➤  cd Simbf2
 ➤ git pull
 ➤ python2 Simbf2.py
 
